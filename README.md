@@ -3,4 +3,5 @@ This is 1/3 repositories that i will use to lean github and in this case javascr
 
 This is the first repository that I use so i will be guiding my self with the Github documentation while I start learning Javascript.
 
-this is my first branch connit
+this is my first branch commit
+already deleted the branch :D
