@@ -5,3 +5,5 @@ This is the first repository that I use so i will be guiding my self with the Gi
 
 this is my first branch commit
 already deleted the branch :D
+
+I have to mention that i've been using platzi to learn, and i found a course that will be usefull on this repository so i hope it helps.
